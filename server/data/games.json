@@ -14,5 +14,13 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Omikron_-_The_Nomad_Soul_Coverart.jpg",
         "summary": "The Nomad Soul (known as Omikron: The Nomad Soul in North America) is an adventure game developed by Quantic Dream and published by Eidos Interactive. It was released for Microsoft Windows in 1999 and Dreamcast in 2000. The player can engage in unarmed and armed combat, explore the three-dimensional environment of Omikron City, and talk with non-player characters to progress the story. It follows an investigation into a case of serial killings, which unravels the supernatural truth behind the city's ancient history. ",
         "_id": "f9a10d0c-1467-4348-a7ad-3f74d2f8a9be"
+    },
+    "dbae2d7b-c46a-4b56-9fa1-614b7f45606c": {
+        "title": "Star Wars Jedi Knight II: Jedi Outcast",
+        "category": "first and third person shooter",
+        "maxLevel": "99",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/Jedi_Outcast_pc_cover.jpg",
+        "summary": "Star Wars Jedi Knight II: Jedi Outcast is a 2002 first- and third-person shooter video game developed by Raven Software for Windows and Mac OS. Westlake Interactive ported the game to Mac OS X, while the Xbox and GameCube versions were ported by Vicarious Visions; most versions were published by Activision and LucasArts, with only the Mac OS version published by Aspyr. The game is a sequel to 1997's Star Wars Jedi Knight: Dark Forces II, and the third main installment in the Star Wars: Jedi Knight series. The single-player campaign, set in the fictional Star Wars expanded universe two years after the Mysteries of the Sith expansion for Dark Forces II, follows returning protagonist Kyle Katarn, a mercenary working for the New Republic and former Jedi who cut his connection to the Force. Katarn must return to his Jedi ways to stop a branch of the Imperial Remnant led by the Dark Jedi Desann from empowering their army with the Force.",
+        "_id": "dbae2d7b-c46a-4b56-9fa1-614b7f45606c"
     }
 }
